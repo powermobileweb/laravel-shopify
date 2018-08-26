@@ -1,19 +1,19 @@
 {
-  "name": "ohmybrew/laravel-shopify",
+  "name": “powermobileteam/laravel-shopify",
   "description": "Shopify package for Laravel to aide in app development",
   "keywords": ["laravel", "shopify", "shopify-api", "api"],
   "license": "MIT",
   "minimum-stability": "dev",
   "authors": [
     {
-      "name": "Tyler King",
-      "email": "tyler.n.king@gmail.com"
+      "name": “PowerMobile Team”,
+      "email": “info@powermobile.org”
     }
   ],
   "require": {
     "php": ">=7.1.0",
     "laravel/framework": "~5.5",
-    "ohmybrew/basic-shopify-api": "~3.0",
+    “Powermobileteam/basic-shopify-api": "~3.0",
     "doctrine/dbal": "~2.5"
   },
   "require-dev":{
